@@ -1,7 +1,7 @@
 # Decentralized Web Projects
 A list of all projects that aim to make the web more decentralized
 
-# Projects 
+# Social Networks 
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
@@ -15,6 +15,12 @@ A list of all projects that aim to make the web more decentralized
 |8|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
 |9|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
 |10|Iris            |Yes           |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to/)|
+
+
+# Other Projects
+| # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
+|-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
+|1|Beaker Browser   |Yes           |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com/)|
 
 # Technology Stacks
 
