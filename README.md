@@ -32,7 +32,7 @@ A list of all projects that aim to make the web more decentralized
 |3|web5            |DID                         |Block Inc    |In development| 
 |4|Matrix Open Standard         |real time communication     |Non-Profit Matrix.org       |Element chat; bridges for Gitter, XMPP|
 |5|WebRTC          |Communication, p2p, browser to browser comm, WebTorrent uses it          |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
-|6|GUN             |Stack to build decentralized applications, including SEA Api for password backup| Supported by Mozilla and others| In development, p2p video and other sample apps in github samples|       
+|6|GUN             |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in github samples|       
 
 
 
