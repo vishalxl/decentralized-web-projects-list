@@ -1,12 +1,12 @@
 # Decentralized Web Projects
 A list of all projects that aim to make the web more decentralized
 
-# Summary 
+# Projects 
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1| Mastodaon       | Yes          |Social network, uses Fediverse  |federated server   | Functional   |  [site](https://joinmastodon.org/) |
-|2| Diaspora        | Yes        |Social network. uses Fediverse    |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org/)|
+|2| Diaspora        | Yes          |Social network. uses Fediverse    |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org/)|
 |3| Secure Scuttlebutt| Yes        |Social network, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/) |
 |4| Retroshare      | Yes          |Social network, File sharing    |Mesh, p2p                   |Functional     |[site](https://retroshare.cc/), [Github](https://github.com/RetroShare/RetroShare) |
 |5|SOLID            | Yes          |Data store model                |Data store pods     |In development| [link](https://solidproject.org/) |
@@ -15,6 +15,13 @@ A list of all projects that aim to make the web more decentralized
 |8|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
 
 
+# Technology Stacks
+
+|#| Name           | Other related technologies | Main driver |  Users      |
+|-|----------------|----------------------------|-------------|-------------|
+|1|ActivityPub     | based on Pump.io's ActivityPump protocol | W3C            | Mastodon, NextCloud |
+|2|OStatus         | Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
+|3|web5            |DID                         |Block Inc    |In development|
 
 References
 1. Wikipedia page for [social networking software](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
