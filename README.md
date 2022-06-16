@@ -22,7 +22,8 @@ A list of all projects that aim to make the web more decentralized
 |-|----------------|----------------------------|-------------|-------------|
 |1|ActivityPub     | based on Pump.io's ActivityPump protocol | W3C            | Mastodon, NextCloud |
 |2|OStatus         | Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
-|3|web5            |DID                         |Block Inc    |In development|
+|3|web5            |DID                         |Block Inc    |In development| 
+|4|Matrix Open Standard         |real time communication     |Non-Profit Matrix.org       |Element chat; bridges for Gitter, XMPP|
 
 
 
