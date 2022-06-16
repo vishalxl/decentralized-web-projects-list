@@ -1,7 +1,7 @@
-# decentralized-web-projects-list
+# Decentralized Web Projects
 A list of all projects that aim to make the web more decentralized
 
-#Summary
+# Summary 
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
@@ -12,7 +12,7 @@ A list of all projects that aim to make the web more decentralized
 |5|SOLID            | Yes          |Data store model                |Data store pods     |In development| [link](https://solidproject.org/) |
 |6|Twister          | Yes          |p2p                             |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co/), [2nd site](https://twisterarmy.org/) |
 |7|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
-
+|8|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
 
 
 
