@@ -22,6 +22,7 @@ A list of all projects that aim to make the web more decentralized
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|Beaker Browser   |Yes           |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com/)|
 |2|GNUnet stack     |Yes           |Collection of applications      |tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
+|3|PeerTube         |Yes           |Federated video solution        |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/)|
 
 # Technology Stacks
 
