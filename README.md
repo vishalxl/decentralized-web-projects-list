@@ -14,7 +14,7 @@ A list of all projects that aim to make the web more decentralized
 |7|Twister          | Yes          |p2p                             |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co/), [2nd site](https://twisterarmy.org/) |
 |8|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
 |9|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
-
+|10|Iris            |Yes           |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to/)|
 
 # Technology Stacks
 
