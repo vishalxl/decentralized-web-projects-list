@@ -10,7 +10,7 @@ A list of all projects that aim to make the web more decentralized
 |3| Secure Scuttlebutt| Yes        |SN, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/), [Another version](https://www.manyver.se/) |
 |4| Retroshare      | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc/), [Github](https://github.com/RetroShare/RetroShare) |
 |5| Aether          | Yes          |reddit like SN                  |flood mesh, p2p    |Functional    |[site](https://getaether.net/) |
-|6|SOLID            | Yes          |Data store model                |Data store pods     |In development| [link](https://solidproject.org/) |
+|6|SOLID            | Yes          |Data store model, led by Tim Berners Lee|Data store pods     |In development| [link](https://solidproject.org/) |
 |7|Twister          | Yes          |p2p                             |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co/), [2nd site](https://twisterarmy.org/) |
 |8|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
 |9|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
