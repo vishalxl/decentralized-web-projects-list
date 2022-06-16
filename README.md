@@ -21,6 +21,7 @@ A list of all projects that aim to make the web more decentralized
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|Beaker Browser   |Yes           |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com/)|
+|2|GNUnet stack     |Yes           |Collection of applications      |tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
 
 # Technology Stacks
 
