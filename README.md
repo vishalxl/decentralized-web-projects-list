@@ -5,14 +5,15 @@ A list of all projects that aim to make the web more decentralized
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1| Mastodaon       | Yes          |Social network, uses Fediverse  |federated server   | Functional   |  [site](https://joinmastodon.org/) |
-|2| Diaspora        | Yes          |Social network. uses Fediverse    |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org/)|
-|3| Secure Scuttlebutt| Yes        |Social network, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/) |
-|4| Retroshare      | Yes          |Social network, File sharing    |Mesh, p2p                   |Functional     |[site](https://retroshare.cc/), [Github](https://github.com/RetroShare/RetroShare) |
-|5|SOLID            | Yes          |Data store model                |Data store pods     |In development| [link](https://solidproject.org/) |
-|6|Twister          | Yes          |p2p                             |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co/), [2nd site](https://twisterarmy.org/) |
-|7|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
-|8|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
+|1| Mastodaon       | Yes          |SN[^1], uses Fediverse  |federated server   | Functional   |  [site](https://joinmastodon.org/) |
+|2| Diaspora        | Yes          |SN. uses Fediverse    |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org/)|
+|3| Secure Scuttlebutt| Yes        |SN, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/) |
+|4| Retroshare      | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc/), [Github](https://github.com/RetroShare/RetroShare) |
+|5| Aether          | Yes          |reddit like SN                  |flood mesh, p2p    |Functional    |[site](https://getaether.net/) |
+|6|SOLID            | Yes          |Data store model                |Data store pods     |In development| [link](https://solidproject.org/) |
+|7|Twister          | Yes          |p2p                             |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co/), [2nd site](https://twisterarmy.org/) |
+|8|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
+|9|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
 
 
 # Technology Stacks
@@ -22,6 +23,10 @@ A list of all projects that aim to make the web more decentralized
 |1|ActivityPub     | based on Pump.io's ActivityPump protocol | W3C            | Mastodon, NextCloud |
 |2|OStatus         | Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
 |3|web5            |DID                         |Block Inc    |In development|
+
+
+
+[^1]: SN stands for Social Network
 
 References
 1. Wikipedia page for [social networking software](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
