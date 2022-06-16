@@ -7,7 +7,7 @@ A list of all projects that aim to make the web more decentralized
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1| Mastodaon       | Yes          |SN[^1], uses Fediverse  |federated server   | Functional   |  [site](https://joinmastodon.org/) |
 |2| Diaspora        | Yes          |SN. uses Fediverse    |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org/)|
-|3| Secure Scuttlebutt| Yes        |SN, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/) |
+|3| Secure Scuttlebutt| Yes        |SN, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/), [Another version](https://www.manyver.se/) |
 |4| Retroshare      | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc/), [Github](https://github.com/RetroShare/RetroShare) |
 |5| Aether          | Yes          |reddit like SN                  |flood mesh, p2p    |Functional    |[site](https://getaether.net/) |
 |6|SOLID            | Yes          |Data store model                |Data store pods     |In development| [link](https://solidproject.org/) |
