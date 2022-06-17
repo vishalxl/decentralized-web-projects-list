@@ -23,7 +23,8 @@ A list of all projects that aim to make the web more decentralized
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|Beaker Browser   |Yes           |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com/)|
 |2|GNUnet stack     |Yes           |Collection of applications      |tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
-|3|[PeerTube](https://joinpeertube.org)         |Yes           |Federated video solution        |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/)|
+|3|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution|Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/)|
+|4|Wildland         |Yes           |Distributed storage, Data ownership, distributed file system(s)   |Huge Con is that they seem to have integrated a shitcoin(eth) into their system|In development, Beta| [site](https://wildland.io/), [introcuction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
 
 # Technology Stacks
 
