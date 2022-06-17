@@ -5,16 +5,16 @@ A list of all projects that aim to make the web more decentralized
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1| [Mastodon](https://joinmastodon.org/)    | Yes |SN[^1], uses Fediverse |federated server, supports ActivityPub| Functional|  [site](https://joinmastodon.org/) |
-|2| [Diaspora](https://diasporafoundation.org)| Yes |SN. uses Fediverse  |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
+|1| [Mastodon](https://joinmastodon.org/)    | Yes |SN[^1], uses Fediverse |Federated server, supports ActivityPub| Functional|  [site](https://joinmastodon.org/) |
+|2| [Diaspora](https://diasporafoundation.org)| Yes |SN. uses Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
 |3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p|Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/)|
 |4| [Retroshare](https://retroshare.cc) | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
-|5| [Aether](https://getaether.net)| Yes  |Reddit like SN                  |flood mesh, p2p    |Functional    |[site](https://getaether.net) |
-|6|[Iris](https://iris.to) |Yes   |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to)|
-|7|[Movim](https://github.com/movim/movim)| Yes|social media| based on XMPP   |Functional, in development|[Github](https://github.com/movim/movim)|
+|5| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
+|6|[Iris](https://iris.to) |Yes   |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
+|7|[Movim](https://github.com/movim/movim)| Yes|social media| Based on XMPP |Functional, in development|[Github](https://github.com/movim/movim)|
 |8| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
 |9| [Twister](http://twister.net.co) | Yes|p2p    |Relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
-|10| [Trsst](https://github.com/TrsstProject/trsst)| Yes|p2p, secure Twister|relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
+|10| [Trsst](https://github.com/TrsstProject/trsst)| Yes|p2p, secure Twister|Relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
 |11|[Nostr](https://github.com/nostr-protocol/nostr)           |Yes           |SN, chat                        |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
 
 
@@ -22,7 +22,7 @@ A list of all projects that aim to make the web more decentralized
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com)|
-|2|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
+|2|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
 |3|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution|Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
 |4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |Huge Con is that they seem to have integrated a shitcoin(eth) into their system|In development, Beta| [site](https://wildland.io), [introcuction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
 
