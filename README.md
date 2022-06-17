@@ -23,18 +23,18 @@ A list of all projects that aim to make the web more decentralized
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|Beaker Browser   |Yes           |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com/)|
 |2|GNUnet stack     |Yes           |Collection of applications      |tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
-|3|PeerTube         |Yes           |Federated video solution        |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/)|
+|3|[PeerTube](https://joinpeertube.org)         |Yes           |Federated video solution        |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/)|
 
 # Technology Stacks
 
 |#| Name           | Other related technologies | Main driver |  Users      |
 |-|----------------|----------------------------|-------------|-------------|
-|1|ActivityPub     | based on Pump.io's ActivityPump protocol | W3C            | Mastodon, NextCloud |
-|2|OStatus         | Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
-|3|web5            |DID                         |Block Inc    |In development| 
-|4|Matrix Open Standard         |real time communication     |Non-Profit Matrix.org       |Element chat; bridges for Gitter, XMPP|
-|5|WebRTC          |Communication, p2p, browser to browser comm, WebTorrent uses it          |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
-|6|GUN             |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in github samples|       
+|1|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     | based on Pump.io's ActivityPump protocol | W3C            | Mastodon, NextCloud |
+|2|[OStatus](https://en.wikipedia.org/wiki/OStatus)         | Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
+|3|[WEB5](https://developer.tbd.website/projects/web5/)            |DID                         |Block Inc    |In development| 
+|4|[Matrix](https://matrix.org/) Open Standard         |real time communication     |Non-Profit Matrix.org       |Element chat; bridges for Gitter, XMPP|
+|5|[WebRTC](https://webrtc.org)          |Communication, p2p, browser to browser comm, WebTorrent uses it          |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
+|6|[GUN](https://gun.eco/)             |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in github samples|       
 
 
 
