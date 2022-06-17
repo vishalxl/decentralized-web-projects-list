@@ -5,9 +5,9 @@ A list of all projects that aim to make the web more decentralized
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1| [Mastodon](https://joinmastodon.org/)    | Yes |SN[^1], uses Fediverse |Federated server, supports ActivityPub| Functional|  [site](https://joinmastodon.org/) |
-|2| [Diaspora](https://diasporafoundation.org)| Yes |SN. uses Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
-|3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p|Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/)|
+|1| [Mastodon](https://joinmastodon.org/)    | Yes | SN[^1], most widely used, uses Fediverse |Federated server, supports ActivityPub| Functional|  [site](https://joinmastodon.org/) |
+|2| [Diaspora](https://diasporafoundation.org)| Yes | SN. widely used, uses Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
+|3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/)|
 |4| [Retroshare](https://retroshare.cc) | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
 |5| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
 |6|[Iris](https://iris.to) |Yes   |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
@@ -33,15 +33,15 @@ A list of all projects that aim to make the web more decentralized
 |1|[WEB5](https://developer.tbd.website/projects/web5/)[^2]            |DID, "Control your identity, Control your Data" |Jack Dorsey's Block Inc    |In development|
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol | W3C            | Mastodon, NextCloud |
 |3|[OStatus](https://en.wikipedia.org/wiki/OStatus)         | Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
-|4|[Matrix](https://matrix.org/) Open Standard         |Real time communication over TCP/IP     |Non-Profit Matrix.org       |Element chat; bridges for Gitter, XMPP|
+|4|[Matrix](https://matrix.org/) Open Standard         |Real time communication over TCP/IP     |Non-Profit Matrix.org       |Element chat client with 100k+ users; bridges for Gitter, XMPP|
 |5|[WebRTC](https://webrtc.org)          |Communication, p2p, browser to browser comm, WebTorrent uses it          |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
-|6|[GUN](https://gun.eco/)             |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in github samples|       
+|6|[GUN](https://gun.eco/)             |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|       
 
 
 
 [^1]: SN stands for Social Network
 [^2]: The name 'web5' a riff/joke on 'web3', which is considered to be a VC driven scam narrative as of early 2022, used to drive shitcoin/scamcoin sales.
 
-References
+## References
 1. Wikipedia page for [social networking software](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
 2. [Alternative Internet list](https://github.com/redecentralize/alternative-internet)
