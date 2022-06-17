@@ -15,7 +15,7 @@ A list of all projects that aim to make the web more decentralized
 |8| [Trsst](https://github.com/TrsstProject/trsst)| Yes|p2p, secure Twister|relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
 |9|[Movim](https://github.com/movim/movim)| Yes|social media| based on XMPP   |Functional, in development|[Github](https://github.com/movim/movim)|
 |10|[Iris](https://iris.to) |Yes   |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to)|
-|11|[Nostr](https://github.com/nostr-protocol/nostr)           |Yes           |SN, chat                        |websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
+|11|[Nostr](https://github.com/nostr-protocol/nostr)           |Yes           |SN, chat                        |websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
 
 
 # Other Projects
