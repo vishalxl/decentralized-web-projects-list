@@ -5,26 +5,26 @@ A list of all projects that aim to make the web more decentralized
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1| Mastodaon       | Yes          |SN[^1], uses Fediverse  |federated server   | Functional   |  [site](https://joinmastodon.org/) |
-|2| Diaspora        | Yes          |SN. uses Fediverse    |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org/)|
-|3| Secure Scuttlebutt| Yes        |SN, Mesh, p2p       |Mesh, p2p          |Functional    |[site](https://scuttlebutt.nz/), [Another version](https://www.manyver.se/) |
-|4| Retroshare      | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc/), [Github](https://github.com/RetroShare/RetroShare) |
-|5| Aether          | Yes          |reddit like SN                  |flood mesh, p2p    |Functional    |[site](https://getaether.net/) |
-|6|SOLID            | Yes          |Data store model, led by Tim Berners Lee|Data store pods     |In development| [link](https://solidproject.org/) |
-|7|Twister          | Yes          |p2p                             |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co/), [2nd site](https://twisterarmy.org/) |
-|8|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
-|9|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
-|10|Iris            |Yes           |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to/)|
-|11|Nostr           |Yes           |SN, chat                        |websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [NIP](https://github.com/nostr-protocol/nips)|
+|1| [Mastodaon](https://joinmastodon.org/)    | Yes |SN[^1], uses Fediverse |federated server   | Functional   |  [site](https://joinmastodon.org/) |
+|2| [Diaspora](https://diasporafoundation.org)| Yes |SN. uses Fediverse  |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
+|3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p|Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/)|
+|4| [Retroshare](https://retroshare.cc) | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
+|5| [Aether](https://getaether.net)| Yes  |reddit like SN                  |flood mesh, p2p    |Functional    |[site](https://getaether.net) |
+|6| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [link](https://solidproject.org) |
+|7| [Twister](http://twister.net.co) | Yes|p2p    |relays, dht/bittorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
+|8| [Trsst](https://github.com/TrsstProject/trsst)| Yes|p2p, secure Twister|relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
+|9|[Movim](https://github.com/movim/movim)| Yes|social media| based on XMPP   |Functional, in development|[Github](https://github.com/movim/movim)|
+|10|[Iris](https://iris.to) |Yes   |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to)|
+|11|[Nostr](https://github.com/nostr-protocol/nostr)           |Yes           |SN, chat                        |websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
 
 
 # Other Projects
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1|Beaker Browser   |Yes           |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com/)|
-|2|GNUnet stack     |Yes           |Collection of applications      |tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
+|1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com)|
+|2|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
 |3|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution|Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/)|
-|4|Wildland         |Yes           |Distributed storage, Data ownership, distributed file system(s)   |Huge Con is that they seem to have integrated a shitcoin(eth) into their system|In development, Beta| [site](https://wildland.io/), [introcuction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
+|4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |Huge Con is that they seem to have integrated a shitcoin(eth) into their system|In development, Beta| [site](https://wildland.io), [introcuction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
 
 # Technology Stacks
 
