@@ -5,7 +5,7 @@ A list of all projects that aim to make the web more decentralized
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1| [Mastodaon](https://joinmastodon.org/)    | Yes |SN[^1], uses Fediverse |federated server   | Functional   |  [site](https://joinmastodon.org/) |
+|1| [Mastodon](https://joinmastodon.org/)    | Yes |SN[^1], uses Fediverse |federated server   | Functional   |  [site](https://joinmastodon.org/) |
 |2| [Diaspora](https://diasporafoundation.org)| Yes |SN. uses Fediverse  |federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
 |3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p|Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/)|
 |4| [Retroshare](https://retroshare.cc) | Yes          |SN, File sharing    |Mesh, p2p          |Functional    |[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
