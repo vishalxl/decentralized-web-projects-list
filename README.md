@@ -15,6 +15,7 @@ A list of all projects that aim to make the web more decentralized
 |8|trsst            | Yes          |p2p, secure Twister             |relays, dht/bittorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
 |9|Movim            | Yes          |social media                    |xmpp                  |Functional, in development|[Github](https://github.com/movim/movim)|
 |10|Iris            |Yes           |SN, marketplace, chat           |mesh, p2p             |Functional  |[site](https://iris.to/)|
+|11|Nostr           |Yes           |SN, chat                        |websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [NIP](https://github.com/nostr-protocol/nips)|
 
 
 # Other Projects
