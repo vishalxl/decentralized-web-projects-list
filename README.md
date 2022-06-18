@@ -50,3 +50,4 @@ A list of all projects that aim to make the web more decentralized
 ## References
 1. Wikipedia page for [social networking software](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
 2. [Alternative Internet list](https://github.com/redecentralize/alternative-internet)
+3. [NLNet](https://nlnet.nl/project/current.html) list of projects, including Briar chat app.
