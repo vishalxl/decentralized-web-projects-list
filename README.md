@@ -8,7 +8,7 @@ A list of all projects that aim to make the web more decentralized
 |1| [Mastodon](https://joinmastodon.org/)[^1]    | Yes | SN[^2], most widely used, part of Fediverse[^3] |Federated server, uses ActivityPub| Functional|  [site](https://joinmastodon.org/) |
 |2| [Diaspora](https://diasporafoundation.org)| Yes | SN. widely used, part of Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
 |3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/), [SSB Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide)|
-|4|Clients of [Matrix](https://matrix.org/) Open Standard|Yes|Chat - Real time communication over TCP/IP|Distributed servers, and clients that connect to them|Functional; Element chat client with 100k+ users; bridges for Gitter, XMPP|[site](https://matrix.org/)|
+|4|Clients of [Matrix](https://matrix.org/) Open Standard|Yes|Chat - Real time communication over TCP/IP|Interconnected Distributed servers; clients that use them|Functional; bridges for Gitter, XMPP|[site](https://matrix.org/)|
 |5| [Retroshare](https://retroshare.cc)   | Yes          |SN, File sharing    |Mesh, p2p          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
 |6| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
 |7|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
@@ -35,7 +35,7 @@ A list of all projects that aim to make the web more decentralized
 |1|[WEB5](https://developer.tbd.website/projects/web5/)[^4][^5] |DID, "Control your identity, Control your Data" |Jack Dorsey's Block Inc    |In development|
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol, applications using it are called Fediverse | W3C            | Mastodon, NextCloud |
 |3|[OStatus](https://en.wikipedia.org/wiki/OStatus)             |Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
-|4|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
+|4|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |Supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
 |5|[GUN](https://gun.eco/)     |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|       
 
 
