@@ -7,11 +7,11 @@ A list of all projects that aim to make the web more decentralized
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1| [Mastodon](https://joinmastodon.org/)[^1]    | Yes | SN[^2], most widely used, part of Fediverse[^3] |Federated server, uses ActivityPub| Functional|  [site](https://joinmastodon.org/) |
 |2| [Diaspora](https://diasporafoundation.org)| Yes | SN. widely used, part of Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
-|3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/)|
+|3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/), [SSB Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide)|
 |4| [Retroshare](https://retroshare.cc)   | Yes          |SN, File sharing    |Mesh, p2p          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
 |5| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
 |6|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
-|7|[Movim](https://github.com/movim/movim)| Yes|social media| Based on XMPP |Functional, in development|[Github](https://github.com/movim/movim)|
+|7|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[Github](https://github.com/movim/movim)|
 |8| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
 |9| [Twister](http://twister.net.co) | Yes|SN    |p2p with Relays, DHT/BitTorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
 |10| [Trsst](https://github.com/TrsstProject/trsst)| Yes|SN, Secure Twister|p2p with Relays, DHT/BitTorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
