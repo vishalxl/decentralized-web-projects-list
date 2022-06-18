@@ -8,14 +8,15 @@ A list of all projects that aim to make the web more decentralized
 |1| [Mastodon](https://joinmastodon.org/)[^1]    | Yes | SN[^2], most widely used, part of Fediverse[^3] |Federated server, uses ActivityPub| Functional|  [site](https://joinmastodon.org/) |
 |2| [Diaspora](https://diasporafoundation.org)| Yes | SN. widely used, part of Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
 |3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/), [SSB Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide)|
-|4| [Retroshare](https://retroshare.cc)   | Yes          |SN, File sharing    |Mesh, p2p          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
-|5| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
-|6|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
-|7|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[Github](https://github.com/movim/movim)|
-|8| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
-|9| [Twister](http://twister.net.co) | Yes|SN    |p2p with Relays, DHT/BitTorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
-|10| [Trsst](https://github.com/TrsstProject/trsst)| Yes|SN, Secure Twister|p2p with Relays, DHT/BitTorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
-|11|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
+|4|Clients of [Matrix](https://matrix.org/) Open Standard|Yes|Chat - Real time communication over TCP/IP|Distributed servers, and clients that connect to them|Functional; Element chat client with 100k+ users; bridges for Gitter, XMPP|[site](https://matrix.org/)|
+|5| [Retroshare](https://retroshare.cc)   | Yes          |SN, File sharing    |Mesh, p2p          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
+|6| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
+|7|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
+|8|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[Github](https://github.com/movim/movim)|
+|9| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
+|10| [Twister](http://twister.net.co) | Yes|SN    |p2p with Relays, DHT/BitTorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
+|11| [Trsst](https://github.com/TrsstProject/trsst)| Yes|SN, Secure Twister|p2p with Relays, DHT/BitTorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
+|12|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
 
 
 # Other Projects
@@ -34,9 +35,8 @@ A list of all projects that aim to make the web more decentralized
 |1|[WEB5](https://developer.tbd.website/projects/web5/)[^4][^5] |DID, "Control your identity, Control your Data" |Jack Dorsey's Block Inc    |In development|
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol, applications using it are called Fediverse | W3C            | Mastodon, NextCloud |
 |3|[OStatus](https://en.wikipedia.org/wiki/OStatus)             |Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
-|4|[Matrix](https://matrix.org/) Open Standard                  |Real time communication over TCP/IP     |Non-Profit Matrix.org       |Element chat client with 100k+ users; bridges for Gitter, XMPP|
-|5|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
-|6|[GUN](https://gun.eco/)     |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|       
+|4|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
+|5|[GUN](https://gun.eco/)     |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|       
 
 
 
