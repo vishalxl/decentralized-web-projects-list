@@ -10,9 +10,9 @@ A list of all projects that aim to make the web more decentralized
 |3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/), [SSB Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide)|
 |4|Clients of [Matrix](https://matrix.org/) Open Standard|Yes|Chat - Real time communication over TCP/IP, widely used|Interconnected Distributed servers; clients that use them|Functional; bridges for Gitter, XMPP|[site](https://matrix.org/)|
 |5| [Retroshare](https://retroshare.cc)   | Yes          |SN, File sharing    |Mesh, p2p          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
-|6| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site](https://getaether.net) |
+|6| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site and about info](https://getaether.net/about-contact/) |
 |7|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
-|8|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[Github](https://github.com/movim/movim)|
+|8|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[site](https://movim.eu/), [Github](https://github.com/movim/movim)|
 |9| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
 |10| [Twister](http://twister.net.co) | Yes|SN    |p2p with Relays, DHT/BitTorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
 |11| [Trsst](https://github.com/TrsstProject/trsst)| Yes|SN, Secure Twister|p2p with Relays, DHT/BitTorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
