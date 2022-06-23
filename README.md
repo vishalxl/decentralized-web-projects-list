@@ -22,7 +22,7 @@ A list of all projects that aim to make the web more decentralized
 # Other Projects
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| DAT protocol| Functional| [site](https://beakerbrowser.com)|
+|1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| Hypercore/DAT protocol| Functional| [site](https://beakerbrowser.com), [Intro to Hypercore](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/protocols/hypercore.md)|
 |2|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html)|
 |3|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution, part of Fediverse |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
 |4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |One con is that they seem to have integrated a token(eth) into their system|In development, Beta| [site](https://wildland.io), [introduction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
