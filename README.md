@@ -23,11 +23,12 @@ A list of all projects that aim to make the web more decentralized
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| Hypercore/DAT protocol| Functional| [site](https://beakerbrowser.com), [Intro to Hypercore](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/protocols/hypercore.md)|
-|2|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html), tool [Anastasis](https://anastasis.lu/en/index.html) for password recovery|
-|3|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution, part of Fediverse |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
+|2|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution, part of Fediverse |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
+|3|[Keet](https://keet.io/)|Not as of Aug 2022, its SDK will be open source released in Dec 2022|p2p video call app| | live, just released in Aug 2022| [annoucnement](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)|
 |4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |One con is that they seem to have integrated a token(eth) into their system|In development, Beta| [site](https://wildland.io), [introduction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
 |5|[Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) |Yes          |File transfer/sharing application, open source, and a website| Uses a mailbox server to connect two endpoints| Functional | [Github](https://github.com/magic-wormhole/magic-wormhole), [docs](https://magic-wormhole.readthedocs.io/en/latest/), [file transfer site](https://wormhole.app/)|
-|6|[Keet](https://keet.io/)|Not as of Aug 2022, its SDK will be open source released in Dec 2022|p2p video call app| | live, just released in Aug 2022| [annoucnement](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)|
+|6|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html), tool [Anastasis](https://anastasis.lu/en/index.html) for password recovery|
+|7|[Dark Crystal](https://darkcrystal.pw/)| Yes | Allows safeguarding your private key(s) by sharing them among number of other individuals you trust| Like Anastasis;  shamir secret sharing and similar techniques| In development, being used by Secure Scuttlebutt apps| [Protocol spec](https://darkcrystal.pw/protocol-specification/)
 
 # Technology Stacks
 
