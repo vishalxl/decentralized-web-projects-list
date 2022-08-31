@@ -27,6 +27,7 @@ A list of all projects that aim to make the web more decentralized
 |3|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution, part of Fediverse |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
 |4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |One con is that they seem to have integrated a token(eth) into their system|In development, Beta| [site](https://wildland.io), [introduction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
 |5|[Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) |Yes          |File transfer/sharing application, open source, and a website| Uses a mailbox server to connect two endpoints| Functional | [Github](https://github.com/magic-wormhole/magic-wormhole), [docs](https://magic-wormhole.readthedocs.io/en/latest/), [file transfer site](https://wormhole.app/)|
+|6|[Keet](https://keet.io/)|Not as of Aug 2022, its SDK will be open source released in Dec 2022|p2p video call app| | live, just released in Aug 2022| [annoucnement](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)|
 
 # Technology Stacks
 
@@ -36,7 +37,8 @@ A list of all projects that aim to make the web more decentralized
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol, applications using it are called Fediverse | W3C            | Mastodon, NextCloud |
 |3|[OStatus](https://en.wikipedia.org/wiki/OStatus)             |Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
 |4|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |Supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
-|5|[GUN](https://gun.eco/)     |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|       
+|5|[GUN](https://gun.eco/)     |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|
+|6|[Slashtags](https://github.com/synonymdev/slashtags)|Identity and Data sharing|Synonym.to| In development, with proof of concepts available|
 
 
 
