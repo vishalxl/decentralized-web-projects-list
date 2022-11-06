@@ -14,9 +14,7 @@ A list of all projects that aim to make the web more decentralized
 |7|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
 |8|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[site](https://movim.eu/), [Github](https://github.com/movim/movim)|
 |9| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
-|10| [Twister](http://twister.net.co) | Yes|SN    |p2p with Relays, DHT/BitTorrent|Abandoned   | [site](http://twister.net.co), [2nd site](https://twisterarmy.org/) |
-|11| [Trsst](https://github.com/TrsstProject/trsst)| Yes|SN, Secure Twister|p2p with Relays, DHT/BitTorrent|Abandoned   |[Github](https://github.com/TrsstProject/trsst) |
-|12|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
+|10|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
 
 
 # Other Projects
@@ -42,6 +40,9 @@ A list of all projects that aim to make the web more decentralized
 |6|[Slashtags](https://github.com/synonymdev/slashtags)|Identity and Data sharing|Synonym.to| In development, with proof of concepts available|
 
 
+## Document History
+
+6 Nov 2022 - Removed mention of abandoned project Trsst and Twister. 
 
 [^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained)
 [^2]: SN stands for Social Network
