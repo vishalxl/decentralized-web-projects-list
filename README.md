@@ -44,7 +44,7 @@ A list of all projects that aim to make the web more decentralized
 
 6 Nov 2022 - Removed mention of abandoned project Trsst and Twister. 
 
-[^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained)
+[^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained). A different [overview](https://nerdica.net/display/84f7f58b-11196d1d6724ab77-583f6578)
 [^2]: SN stands for Social Network
 [^3]: One [list](https://delightful.club/delightful-fediverse-apps) of Fediverse apps
 [^4]: The name 'web5' a riff/joke on 'web3', which is considered to be a VC driven scam narrative as of early 2022, used to drive shitcoin/scamcoin sales.
