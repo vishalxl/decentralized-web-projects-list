@@ -14,7 +14,7 @@ A list of all projects that aim to make the web more decentralized
 |7|[Iris](https://iris.to) |Yes           |SN, marketplace, chat |Mesh, p2p         |Functional  |[site](https://iris.to)|
 |8|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[site](https://movim.eu/), [Github](https://github.com/movim/movim)|
 |9| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
-|10|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [branle](https://branle.netlify.app/), reddit like SN [nvote](https://nvote.co)|
+|10|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [list](https://github.com/vishalxl/Nostr-Clients-Features-List)|
 
 
 # Other Projects
@@ -22,7 +22,7 @@ A list of all projects that aim to make the web more decentralized
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
 |1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| Hypercore/DAT protocol| Functional| [site](https://beakerbrowser.com), [Intro to Hypercore](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/protocols/hypercore.md)|
 |2|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution, part of Fediverse |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
-|3|[Keet](https://keet.io/)|to be open-source released in Dec'22|p2p video call app| | live, just released in Aug 2022| [annoucnement](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)|
+|3|[Keet](https://keet.io/)|to be open-source released in Dec'22|p2p video call app| | live, released in Aug 2022| [annoucnement](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)|
 |4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |One con is that they seem to have integrated a token(eth) into their system|In development, Beta| [site](https://wildland.io), [introduction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
 |5|[Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) |Yes          |File transfer/sharing application, open source, and a website| Uses a mailbox server to connect two endpoints| Functional | [Github](https://github.com/magic-wormhole/magic-wormhole), [docs](https://magic-wormhole.readthedocs.io/en/latest/), [file transfer site](https://wormhole.app/)|
 |6|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html), tool [Anastasis](https://anastasis.lu/en/index.html) for password recovery|
