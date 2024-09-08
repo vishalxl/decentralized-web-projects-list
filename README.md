@@ -33,7 +33,7 @@ A list of all projects that aim to make the web more decentralized
 
 |#| Name           | Other related technologies | Main driver |  Users      |
 |-|----------------|----------------------------|-------------|-------------|
-|1|[WEB5](https://developer.tbd.website/projects/web5/)[^4][^5] |DID, "Control your identity, Control your Data" |Jack Dorsey's Block Inc    |In development|
+|1|[AT Protocol](https://atproto.com/)  |DID, "Control your identity, Control your Data" |Non Profit. Previously called [WEB5](https://developer.tbd.website/projects/web5/)[^4][^5]    |In development, [BlueSky app](https://bsky.app/), List of [PDS's](https://blue.mackuba.eu/directory/pdses), Fediverse to BlueSky [bridge](https://fed.brid.gy/)  | 
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol, applications using it are called Fediverse | W3C            | Mastodon, NextCloud |
 |3|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |Supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
 
