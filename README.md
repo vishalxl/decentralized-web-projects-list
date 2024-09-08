@@ -1,7 +1,7 @@
 # Decentralized Web Projects
 A list of all projects that aim to make the web more decentralized
 
-# Social Networks 
+# Decentralized Social Networks 
 
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
@@ -16,10 +16,9 @@ A list of all projects that aim to make the web more decentralized
 |9|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [list](https://github.com/vishalxl/Nostr-Clients-Features-List)|
 
 
-# Other Projects
+# Other Decentralized Projects
 | # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
 |-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1|[Beaker Browser](https://beakerbrowser.com)|Yes |Allows accessing websites hosted on peer computers| Hypercore/DAT protocol| Functional| [site](https://beakerbrowser.com), [Intro to Hypercore](https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/protocols/hypercore.md)|
 |2|[PeerTube](https://joinpeertube.org)|Yes|Federated video solution, part of Fediverse |Uses ActivityPub, federated servers | Functional| [site](https://joinpeertube.org/), [BitcoinTV - an instance of PeerTube](https://bitcointv.com)|
 |3|[Keet](https://keet.io/)|to be open-source released in Dec'22|p2p video call app| | live, released in Aug 2022| [annoucnement](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)|
 |4|[Wildland](https://wildland.io) |Yes  |Distributed storage, Data ownership, distributed file system(s)   |One con is that they seem to have integrated a token(eth) into their system|In development, Beta| [site](https://wildland.io), [introduction to Wildland](https://golem.foundation/2020/04/09/wildland.html)|
