@@ -35,15 +35,12 @@ A list of all projects that aim to make the web more decentralized
 |-|----------------|----------------------------|-------------|-------------|
 |1|[WEB5](https://developer.tbd.website/projects/web5/)[^4][^5] |DID, "Control your identity, Control your Data" |Jack Dorsey's Block Inc    |In development|
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol, applications using it are called Fediverse | W3C            | Mastodon, NextCloud |
-|3|[OStatus](https://en.wikipedia.org/wiki/OStatus)             |Atom, Activity Streams, WebSub, Salmon, and WebFinger| GNU | GNU Social,Friendica|
-|4|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |Supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
-|5|[GUN](https://gun.eco/)     |Stack to build decentralized applications, including SEA Api for password backup, RAD api for storage| Supported by Mozilla and others| In development, p2p video and other sample apps in [github samples](https://github.com/amark/gun)|
-|6|[Slashtags](https://github.com/synonymdev/slashtags)|Identity and Data sharing|Synonym.to| In development, with proof of concepts available|
+|3|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |Supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
 
 
 ## Document History
 
-9 Sept 2024 - Mentioned Iroh, Earthstar and p2Panda
+9 Sept 2024 - Mentioned Iroh, Earthstar and p2Panda; removed [GUN](https://gun.eco/), [OStatus](https://en.wikipedia.org/wiki/OStatus) and [Slashtags](https://github.com/synonymdev/slashtags)
 6 Nov 2022 - Removed mention of abandoned project Trsst and Twister. 
 
 [^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained). A different [overview](https://nerdica.net/display/84f7f58b-11196d1d6724ab77-583f6578)
