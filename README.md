@@ -27,6 +27,7 @@ A list of all projects that aim to make the web more decentralized
 |6|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html), tool [Anastasis](https://anastasis.lu/en/index.html) for password recovery|
 |7|[Dark Crystal](https://darkcrystal.pw/)| Yes | Allows safeguarding your private key(s) by sharing them among number of other individuals you trust| Like Anastasis;  shamir secret sharing and similar techniques| In development, being used by Secure Scuttlebutt apps| [Protocol spec](https://darkcrystal.pw/protocol-specification/)
 |8|[Earthstar](https://earthstar-project.org/) | Yes| private, distributed, offline-first applications | Shares (shared folder), replicas (copy of share), Documents (describe shares data), keypairs (start with 4 letters)| In development | [How Earthstar works](https://earthstar-project.org/docs/how-it-works)| 
+|9|[p2panda](https://p2panda.org/)| Yes | build local-first websites, mobile- and desktop applications | Rust and JS [sdk](https://p2panda.org/sdks/)  | in development, [network node called aquadoggo](https://github.com/p2panda/aquadoggo/), [roadmap](https://p2panda.org/about/roadmap) | [History of p2panda](https://p2panda.org/about/history)
 
 # Technology Stacks
 
@@ -42,6 +43,7 @@ A list of all projects that aim to make the web more decentralized
 
 ## Document History
 
+9 Sept 2024 - Mentioned Iroh, Earthstar and p2Panda
 6 Nov 2022 - Removed mention of abandoned project Trsst and Twister. 
 
 [^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained). A different [overview](https://nerdica.net/display/84f7f58b-11196d1d6724ab77-583f6578)
