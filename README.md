@@ -41,6 +41,7 @@ A list of all projects that aim to make the web more decentralized
 ## Document History
 
 9 Sept 2024 - Mentioned Iroh, Earthstar and p2Panda; removed [GUN](https://gun.eco/), [OStatus](https://en.wikipedia.org/wiki/OStatus) and [Slashtags](https://github.com/synonymdev/slashtags)
+
 6 Nov 2022 - Removed mention of abandoned project Trsst and Twister. 
 
 [^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained). A different [overview](https://nerdica.net/display/84f7f58b-11196d1d6724ab77-583f6578)
