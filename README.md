@@ -27,7 +27,8 @@ A list of all projects that aim to make the web more decentralized
 |6|[GNUnet](https://www.gnunet.org) stack |Yes |Collection of applications|Tech stack with file system, VPN support| Functional| [how to use](https://www.gnunet.org/en/use.html), tool [Anastasis](https://anastasis.lu/en/index.html) for password recovery|
 |7|[Dark Crystal](https://darkcrystal.pw/)| Yes | Allows safeguarding your private key(s) by sharing them among number of other individuals you trust| Like Anastasis;  shamir secret sharing and similar techniques| In development, being used by Secure Scuttlebutt apps| [Protocol spec](https://darkcrystal.pw/protocol-specification/)
 |8|[Earthstar](https://earthstar-project.org/) | Yes| private, distributed, offline-first applications | Shares (shared folder), replicas (copy of share), Documents (describe shares data), keypairs (start with 4 letters)| In development | [How Earthstar works](https://earthstar-project.org/docs/how-it-works)| 
-|9|[p2panda](https://p2panda.org/)| Yes | build local-first websites, mobile- and desktop applications | Rust and JS [sdk](https://p2panda.org/sdks/)  | in development, [network node called aquadoggo](https://github.com/p2panda/aquadoggo/), [roadmap](https://p2panda.org/about/roadmap) | [History of p2panda](https://p2panda.org/about/history)
+|9|[p2panda](https://p2panda.org/)| Yes | build local-first websites, mobile- and desktop applications | Rust and JS [sdk](https://p2panda.org/sdks/)  | in development, [network node called aquadoggo](https://github.com/p2panda/aquadoggo/), [roadmap](https://p2panda.org/about/roadmap) | [History of p2panda](https://p2panda.org/about/history) |
+|10| [radicle](https://radicle.xyz/)| Yes | Peer-to-peer code collaboration stack built on Git | p2p, git | Functional | [guides](https://radicle.xyz/guides) |
 
 # Technology Stacks
 
