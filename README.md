@@ -3,17 +3,17 @@ A list of all projects that aim to make the web more decentralized
 
 # Decentralized Social Networks 
 
-| # |   Project Name  |  Open Source |  Description                 |  Design           | Status       |  Link(s)|
-|-|:----------------|:------------:|:-------------------------------|-------------------|--------------|--------|
-|1| [Mastodon](https://joinmastodon.org/)[^1]    | Yes | SN[^2], most widely used, part of Fediverse[^3] |Federated server, uses ActivityPub| Functional|  [site](https://joinmastodon.org/) |
-|2| [Diaspora](https://diasporafoundation.org)| Yes | SN. widely used, part of Fediverse  |Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
-|3| [Secure Scuttlebutt](https://scuttlebutt.nz)| Yes |SN, Mesh, p2p, widely used |Mesh, p2p|Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/), [SSB Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide)|
-|4|Clients of [Matrix](https://matrix.org/) Open Standard|Yes|Chat - Real time communication over TCP/IP, widely used|Interconnected Distributed servers; clients that use them|Functional; bridges for Gitter, XMPP|[site](https://matrix.org/)|
-|5| [Retroshare](https://retroshare.cc)   | Yes          |SN, File sharing    |Mesh, p2p          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
-|6| [Aether](https://getaether.net)| Yes  |Reddit like SN |Flood mesh, p2p  |Functional    |[site and about info](https://getaether.net/about-contact/) |
-|7|[Movim](https://github.com/movim/movim)| Yes|SN| Based on XMPP |Functional, in development|[site](https://movim.eu/), [Github](https://github.com/movim/movim)|
-|8| [SOLID](https://solidproject.org)| Yes|Data store model, led by Tim Berners Lee|Data store pods     |In development| [site](https://solidproject.org) |
-|9|[Nostr](https://github.com/nostr-protocol/nostr)|Yes|SN, chat          |Websocket relays, schnorr sigs  |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [list](https://github.com/vishalxl/Nostr-Clients-Features-List)|
+| # |   Project Name                             |  Open Source |  Description and  Design                             | Status       |  Link(s)|
+|-|:----------------                             |:------------:|:-----------------------------------------------------|--------------|--------|
+|1| [Mastodon](https://joinmastodon.org/)[^1]    | Yes          | SN[^2], most widely used, part of Fediverse[^3]; Federated server; uses ActivityPub| Functional|  [site](https://joinmastodon.org/) |
+|2| [Diaspora](https://diasporafoundation.org)   | Yes          | SN. widely used, part of Fediverse, Federated server, uses ActivityPub| Functional |  [site](https://diasporafoundation.org)|
+|3| [Secure Scuttlebutt](https://scuttlebutt.nz) | Yes          | SN, Mesh, p2p, widely used; Mesh, p2p                |Functional    |[site](https://scuttlebutt.nz), [Another version, Manyverse](https://www.manyver.se/), [SSB Protocol guide](https://ssbc.github.io/scuttlebutt-protocol-guide)|
+|4| [Matrix](https://matrix.org/) and Clients    |Yes           | Real time chat over TCP/IP, widely used; Interconnected Distributed servers|Functional; bridges for Gitter, XMPP|[site](https://matrix.org/)|
+|5| [Retroshare](https://retroshare.cc)          | Yes          | SN, File sharing; Mesh, p2p                          |Functional but breaking, no maintenance|[site](https://retroshare.cc), [Github](https://github.com/RetroShare/RetroShare)|
+|6| [Aether](https://getaether.net)              | Yes          |Reddit like SN; Flood mesh, p2p                       |Functional    |[site and about info](https://getaether.net/about-contact/) |
+|7| [Movim](https://github.com/movim/movim)      | Yes          |SN, Based on XMPP                                     |Functional, in development|[site](https://movim.eu/), [Github](https://github.com/movim/movim)|
+|8| [SOLID](https://solidproject.org)            | Yes          |Data store model, led by Tim Berners Lee; Data store pods |In development| [site](https://solidproject.org) |
+|9|[Nostr](https://github.com/nostr-protocol/nostr)|Yes         |SN, chat; Websocket relays, schnorr sigs              |Functional, in Development|[Intro to Nostr](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips), client [list](https://github.com/vishalxl/Nostr-Clients-Features-List)|
 
 
 # Other Decentralized Projects
