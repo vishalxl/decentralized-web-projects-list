@@ -27,6 +27,8 @@ A list of all projects that aim to make the web more decentralized
 |6|[Earthstar](https://earthstar-project.org/)   | Yes          | private, distributed, offline-first applications ; shared folders; instantiation of [Willow](https://willowprotocol.org/index.html#willow)| In development | [How Earthstar works](https://earthstar-project.org/docs/how-it-works) | 
 |7|[p2panda](https://p2panda.org/)               | Yes          | build local-first websites, mobile and desktop applications; In Rust and JS [sdk](https://p2panda.org/sdks/)  | in development, [aquadoggo](https://github.com/p2panda/aquadoggo/), [roadmap](https://p2panda.org/about/roadmap) | [History of p2panda](https://p2panda.org/about/history) |
 |8| [radicle](https://radicle.xyz/)              | Yes          | p2p code collaboration stack built on Git                                    | Functional | [guides](https://radicle.xyz/guides) |
+|9| [Peergos](https://peergos.org/)              | Yes          | A number of applications that interconnect, including [social network](https://peergos.org/posts/decentralized-social-media); run on your own server| Functional | [Peergos book](https://book.peergos.org/) |
+
 
 # Technology Stacks
 
@@ -35,13 +37,14 @@ A list of all projects that aim to make the web more decentralized
 |1|[AT Protocol](https://atproto.com/)  |DID, "Control your identity, Control your Data" |Non Profit. Previously called [WEB5](https://developer.tbd.website/projects/web5/)[^4][^5]    |In development, [BlueSky app](https://bsky.app/), List of [PDS's](https://blue.mackuba.eu/directory/pdses), Fediverse to BlueSky [bridge](https://fed.brid.gy/)  | 
 |2|[ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)     |Based on Pump.io's ActivityPump protocol, applications using it are called Fediverse | W3C            | Mastodon, NextCloud |
 |3|[WebRTC](https://webrtc.org)|Communication, p2p, browser to browser comm, WebTorrent uses it |Supported by Apple, Google, Microsoft and Mozilla| WebRTC.org |
+|4|[Spritely Goblins](https://spritely.institute/goblins/)|[Capn Protocol](https://capnproto.org/), is partial implementation of main standard;  |By [Spritely](https://spritely.institute/), this home page has good intro to the protocol; funded by NlNet | No usable application as of early 2025 |
 
 
 ## Document History
 
-9 Sept 2024 - Mentioned Iroh, Earthstar and p2Panda; removed [GUN](https://gun.eco/), [OStatus](https://en.wikipedia.org/wiki/OStatus) and [Slashtags](https://github.com/synonymdev/slashtags)
-
-6 Nov 2022 - Removed mention of abandoned project Trsst and Twister. 
+ Early 2025  - Removed Keet; added Peergos, Spritely Goblins  
+ 9 Sept 2024 - Mentioned Iroh, Earthstar and p2Panda; removed [GUN](https://gun.eco/), [OStatus](https://en.wikipedia.org/wiki/OStatus) and [Slashtags](https://github.com/synonymdev/slashtags)  
+ 6 Nov 2022 - Removed mention of abandoned project Trsst and Twister.  
 
 [^1]: Mastodon, ActivityPub and Fediverse [explained](https://savjee.be/videos/simply-explained/mastodon-and-fediverse-explained). A different [overview](https://nerdica.net/display/84f7f58b-11196d1d6724ab77-583f6578)
 [^2]: SN stands for Social Network
