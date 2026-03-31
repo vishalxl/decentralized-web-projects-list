@@ -14,6 +14,8 @@ A list of all projects that aim to make the web more decentralized
 |7| [Movim](https://github.com/movim/movim)      | Yes          |SN, Based on XMPP                                     |Functional, in development|[site](https://movim.eu/), [Github](https://github.com/movim/movim)|
 |8| [SOLID](https://solidproject.org)            | Yes          |Data store in pods, led by Tim Berners Lee            |In development| [site](https://solidproject.org) |
 |9|[Nostr](https://github.com/nostr-protocol/nostr)|Yes         |SN, chat; Websocket relays, schnorr sigs              |Functional, in Development|[Intro](https://github.com/nostr-protocol/nostr), [Awesome Nostr List](https://github.com/aljazceru/awesome-nostr), [NIP](https://github.com/nostr-protocol/nips)|
+|10|[Rostra](https://github.com/dpc/rostra)|Yes         | Social Netowrk, uses Iroh and Pkarr, written in Rust              |Functional, in Development| [40 min video Intro](https://www.youtube.com/watch?v=vXb-oVmn-8o), [Text Intro](https://github.com/dpc/rostra/blob/master/README.md),  [Onboarding Guide](https://github.com/dpc/rostra/discussions/44), |
+
 
 
 # Other Decentralized Projects
